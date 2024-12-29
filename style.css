@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", serif;
+}
+
+.title {
+    text-align: center;
+    padding: 20px;
+ }
+ 
+ .title h1 {
+    margin: 0;
+    font-size: 2.5em;
+ }
+ 
+ .info-title {
+    font-size: 1.2em;
+    margin-top: 10px;
+ }
+ 
+ .content, .content-return {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white; /* Fondo blanco para el contenido */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Sombra */
+ }
+ 
+ .subtitle h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+ }
+ 
+
+ .paragraph-info p {
+    line-height: 1.6;
+    margin: 10px 0;
+ }
+ 
+ .paragraph-steps, .paragraph-keypoints {
+    margin: 10px 0 20px 20px;
+ }
+ 
+ a {
+    text-decoration: none;
+ }
+ 
+ a:hover {
+    text-decoration: underline;
+ }
+ 
+ ol, ul {
+    margin: 10px 0;
+ }
+ 
+ li {
+    margin-bottom: 5px;
+ }
